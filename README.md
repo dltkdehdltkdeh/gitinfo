@@ -3,7 +3,7 @@
 Introduction for Git and SVN by written Stone
 
 ```sql
-/*  */
+/* My Life is ... */
 SELECT T.MyAge, T.LifeInfo, T.*
   FROM BravoMyLife
  WHERE T.MyAge >= 20
